@@ -1,0 +1,10 @@
+/home/m1k3/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/m1k3/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/ninja/linux/x64/ninja -G Ninja -S "/mnt/d/uag/fundamentos/unidad 2/Sys_Calculator" -B "/mnt/d/uag/fundamentos/unidad 2/Sys_Calculator/cmake-build-debug"
+-- The C compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/d/uag/fundamentos/unidad 2/Sys_Calculator/cmake-build-debug

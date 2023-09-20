@@ -1,0 +1,3 @@
+/mnt/d/uag/fundamentos/unidad 2/Sys_Calculator/cmake-build-debug/CMakeFiles/Sys_Calculator.dir
+/mnt/d/uag/fundamentos/unidad 2/Sys_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/uag/fundamentos/unidad 2/Sys_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
